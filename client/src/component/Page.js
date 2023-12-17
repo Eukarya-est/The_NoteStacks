@@ -1,3 +1,6 @@
+import React from 'react'
+import Markdown from 'react-markdown'
+
 function Page() {
     return(
         <div className="Page" style={{ marginTop:'20px', marginLeft: '50px', flexGrow: '8' }}>
@@ -66,7 +69,7 @@ function Page() {
                     borderRadius: '5px',
                     fontSize: '12px',
                 }}>
-                    TITLE
+                TITLE
                 </div>
                 <div style={{
                     background: 'white',
@@ -86,7 +89,8 @@ function Page() {
                     borderRadius: '5px',
                     fontSize: '12px',
                 }}>
-                    CONTENTS
+                    <p>CONTENT</p>
+                    <p>[Prop 1.1]  $(X, T_X), (Y, T_Y) : $ Productspace</p>
                 </div>
             </div>
         </div>

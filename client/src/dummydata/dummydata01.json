@@ -1,0 +1,10 @@
+{
+    "cover": "Topology",
+    "number": "65536",
+    "creation_date": "2024-01-01 00:00",
+    "renewal_date": "2024-01-31 00:00",
+    "revision": "8192",
+    "title":"Product topology and Product space",
+    "subtitle":"",
+    "content":["[Prop 1.1] \n $(X, T_X), (Y, T_Y) : $ Productspace \n"]
+}
